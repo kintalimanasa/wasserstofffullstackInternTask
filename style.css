@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1, h2 {
+    margin-bottom: 10px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    width: 200px;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  select {
+    padding: 10px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .weather-details {
+    margin-bottom: 20px;
+  }
+  
+  .weather-details p {
+    margin-bottom: 10px;
+  }
+  
+  .weather-icon {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+  }
+  
+  .five-day-forecast {
+    margin-top: 20px;
+  }
+  
+  .five-day-forecast div {
+    margin-bottom: 20px;
+  }
+  
+  .five-day-forecast p {
+    margin-bottom: 10px;
+  }
